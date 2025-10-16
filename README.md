@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=6C63FF&width=480&lines=Olá%2C+eu+sou+a+Franciele+👋;Estudante+de+Engenharia+de+Dados+e+Back-End!;Python+%7C+SQL+%7C+Análise+de+Dados)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/franciele-costa-89082856)
@@ -87,21 +87,4 @@ Estou construindo meu portfólio com projetos de **ETL, automação e upload de 
 ---
 
 ✨ *"Crescendo todos os dias, um projeto de dados por vez."* ✨
-=======
-## Hi there 👋
 
-<!--
-**fscosta1/fscosta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 97d083f754c6698c83e2e229ba25046dcc96829d
